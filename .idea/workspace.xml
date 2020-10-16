@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3528a69b-95b3-40f6-aee4-25f08a4ab16b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/nummanip.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+    <list default="true" id="3528a69b-95b3-40f6-aee4-25f08a4ab16b" name="Default Changelist" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/calc/math.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/nummanip.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nummanip.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.15.2/libexec" />
   <component name="Git.Settings">
@@ -21,12 +27,15 @@
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1ixtaExWdYwNcwMZk6ro2ygqkp2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
@@ -42,13 +51,26 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fisrt commit" />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1602862636603">
+    <state x="100" y="100" width="1592" height="920" key="DiffContextDialog" timestamp="1602873337086">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1602862636603" />
+    <state x="100" y="100" width="1592" height="920" key="DiffContextDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1602873337086" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1602863880227">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1602863880227" />
+    <state x="718" y="461" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602863343205">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="718" y="461" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1602863343205" />
   </component>
 </project>
