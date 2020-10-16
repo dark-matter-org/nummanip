@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3528a69b-95b3-40f6-aee4-25f08a4ab16b" name="Default Changelist" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/calc/math.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/nummanip.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nummanip.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-    </list>
+    <list default="true" id="3528a69b-95b3-40f6-aee4-25f08a4ab16b" name="Default Changelist" comment="Adding functionality" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +49,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fisrt commit" />
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Adding functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding functionality" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -64,10 +60,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="100" y="100" width="1592" height="920" key="DiffContextDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1602873337086" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1602863880227">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1602874523173">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1602863880227" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1602874523173" />
     <state x="718" y="461" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602863343205">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
