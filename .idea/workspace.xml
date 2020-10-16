@@ -60,13 +60,17 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="100" y="100" width="1592" height="920" key="DiffContextDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1602873337086" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1602874523173">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1602874794633">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1602874523173" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1602874794633" />
     <state x="718" y="461" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602863343205">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="718" y="461" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1602863343205" />
+    <state x="703" y="411" key="git4idea.ui.GitTagDialog" timestamp="1602874888149">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="703" y="411" key="git4idea.ui.GitTagDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1602874888149" />
   </component>
 </project>
